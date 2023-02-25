@@ -3,7 +3,7 @@
 ### In this simple project I wrote code to blurrs out people's faces in any given colored image or vedio without affecting the remaining parts of the image or vedio.
 
 In this project I use jupyter notebook in VS Code IDE.. so in the first cell I write the code for image and the second cell I write code for vedio.
-you can run this code using anaconda or visual studio code in my machine I have problem with vs code and terminal so I have to run this code in spider IDE. 
+you can run this code using anaconda or visual studio code . 
 
 ### **Face blurring for image:**
 
