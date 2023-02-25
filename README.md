@@ -35,7 +35,3 @@ and draws a rectangle around the detected face region on the img variable using 
 
 
 
-<img src="C:\Users\roaas\Downloads\download.jpeg" alt="Alt text" title="Optional title">
-
-
-
